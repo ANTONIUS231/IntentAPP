@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Volume_Balok Antonius_312010004</string>
+    <string name="length">Panjang</string>
+    <string name="Width">Lebar</string>
+    <string name="Height">Tinggi</string>
+    <string name="calculate">Hitung</string>
+    <string name="result">Hasil</string>
+</resources>
